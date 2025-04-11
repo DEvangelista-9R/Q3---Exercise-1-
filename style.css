@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+h2 {
+    color: #333;
+}
+
+.custom-btn {
+    width: 100%;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#result {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #007bff;
+    margin-top: 20px;
+    text-align: center;
+}
